@@ -1,0 +1,5 @@
+{
+  "tests/test_media_resizer.py::test_video_resizing": true,
+  "tests/test_media_resizer.py::test_custom_output_filename": true,
+  "tests/test_media_resizer.py::test_fill_color": true
+}
